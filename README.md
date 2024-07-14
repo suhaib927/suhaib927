@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Programming mobile applications through flutter 
 - 📫 How to reach me: suhaibalhajothman@gmail.com
   
-Skills:  JS / HTML / CSS / C / C++ / C# / Java / Dart / Flutter
+Skills:  JS / HTML / CSS / C / C++ / C# / Java / Dart / Flutter / Asp.net
